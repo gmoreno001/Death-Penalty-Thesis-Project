@@ -141,12 +141,6 @@ sum death_sentence execution sum_dp if state_n==47 & cty_dp==1
 //TEXAS
 sum death_sentence execution sum_dp if state_n==48 & cty_dp==1 
 
-
-*** QUESTION (2/27/21) - WHERE DOES THE N'S IN TABLE 3 HEADER COME FROM?
-*** I think they match the number of counties within a state that had a death sentence 
-tab death_sentence if state_n==48 //TX
-tab death_sentence if state_n==40 //OK
-
 	  
 *~~~~~~~~~~~~~~~~~~~~~~~~
 * TABLE 5. CORRELATIONS 
