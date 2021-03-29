@@ -1,6 +1,6 @@
 # Death-Penalty-Thesis-Project
 
-Repository contains rogramming syntax, raw and prepped data files for thesis project 
+Repository contains programming syntax, raw and prepped data files for thesis project 
 
 ***
 
