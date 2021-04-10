@@ -7,10 +7,7 @@ global fileloc "set_your_file_path_here"
 
 //ACS COUNTY-LEVEL 2008 TO 2012 ESTIMATES //
 *******************************************
-*global fileloc "H:\03_Research\Common Data\Death Penalty\"
-*use "H:\03_Research\Common Data\ACS\05_Five_Year\ACS0812\ACS0812_050_Final.dta", clear
-
-use ACS data
+use "$fileloc\02_Prepped_Data\ACS0812_050_Final.dta"
 
 //DEATH PENALTY USAGE DATA//
 ****************************
